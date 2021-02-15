@@ -1,0 +1,1 @@
+cmd /c (start /b /d "E:\BKP_GENILDO_OPPY\WORKSPACES\XID_IN_NODEJS\XID_IN_NODEJS\xid-auth-api" "%cd%" "C:\Program Files\Git\git-bash.exe" -i -c "git add .;git commit -m "%date%"; git push https://github.com/genildoaraujo77/xid-api-auth-node.git master -f; exec bash") && pause
